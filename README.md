@@ -1,4 +1,4 @@
-# sales-forecasting-with-LSTM
+# Sales Forecasting with LSTM: Time Series Prediction for Spare Parts Demand
 ## Overview
 This project is a complete end-to-end pipeline for sales forecasting using **Long Short-Term Memory (LSTM)**, a type of Recurrent Neural Network (RNN). The system leverages historical sales data to forecast the **demand for spare parts over the next 12 months**, enabling businesses to make data-driven decisions in inventory management and production planning.
 
